@@ -1,1 +1,1 @@
-console_logging_lab_all_failing
+console.log( pass test)
