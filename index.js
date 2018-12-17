@@ -1,1 +1,1 @@
-hello, world!
+console_logging_lab_all_failing
